@@ -1,0 +1,36 @@
+h1 {
+    /*font-family: "Times New Roman";*/
+    font-weight: bold;
+    font-size:200%;
+}
+
+h2, span.header2 {
+    /*font-family: "Times New Roman";*/
+    font-weight: bold;
+    font-size: 150%;
+}
+
+h3 {
+    /*font-family: "Times New Roman";*/
+    font-weight: bold;
+    font-size:100%;
+}
+a.rollover {
+    color: #0000ff;
+    font-weight: normal;
+    text-decoration: none;
+}
+a.rollover:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+dt {
+    /*font-family: "Times New Roman";*/
+    font-weight: bold;
+    font-size: 100%;
+}
+div.light_text {
+    /*font-family: "Times New Roman";*/
+    font-weight: lighter;
+    font-size: 85%;
+}
